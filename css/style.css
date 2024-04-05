@@ -747,11 +747,12 @@ a:focus {
 
 .team_section .box .img-box {
   width: 100%;
-  height: 500px;
+  
 }
 
 .team_section .box .img-box img {
   width: 100%;
+  height: 500px;
 }
 
 .team_section .box .detail-box {
